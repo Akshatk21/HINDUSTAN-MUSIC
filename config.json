@@ -1,0 +1,36 @@
+
+
+{
+  "TOKEN":"ODMwMzM3NzM5MTg1NDU1MTI1.YHFORw.b3Aml4KgWyuU46pf0ggHwZDQlCk",
+  "YOUTUBE_API_KEY": "AIzaSyAStizN7paVfwAoq4XejbfT6ye0h4t1rks",
+
+
+  "EMOJI_ARROW": "<a:hind_GlowArrowRight:826684089603194931>",
+  "EMOJI_DONE": "<a:hind_verified:807185277851271208>",
+  "EMOJI_ERROR": "<a:hind_Warnflash:807488256060948500>",
+  "EMOJI_STARTED_PLAYING": "<a:hind_neon_blu_heart:826385500293562438>",
+  "EMOJI_LINE":"HERE ANY LINE EMOJI ID",
+
+
+  "BOT_ID": "830337739185455125",
+  "BOT_OWNER_ID": "748083936151732245",
+  "SERVER_INVITE": "https://discord.gg/6sY4PksJdg",
+
+  "PREFIX": "h.",
+  "BOT_PREFIX": "h.",
+
+
+  "BOT_STATUS2":"ON HINDUSTAN",
+  "BOT_STATUS3": "LOVELY MUSIC",
+  
+  "BOT_PRESENCE" : "PLAYING",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
